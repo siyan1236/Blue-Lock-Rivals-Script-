@@ -9,8 +9,7 @@ Advanced customization &amp; gameplay enhancement toolkit for Blue Lock Rivals.
 
 <p>Now it's possible!</p>
 
-<br><br><br><br><br>
-
+<hr style="border:1px solid #2ea44f;">
 
 📥 **Installation**
 
@@ -24,7 +23,7 @@ Copy the contents into your Blue Lock installation directory:
 
 <div style="border-left:4px solid #2ea44f; padding-left:15px; margin-top:20px;">
 
-🔲 Supported CPU: AMD & Intel  
+ 🔲 Supported CPU: AMD & Intel  
 <br>
 🔧 Supported architectures: 64-bit, 32-bit  
 <br>
