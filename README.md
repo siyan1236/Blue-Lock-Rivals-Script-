@@ -19,7 +19,7 @@ Extract the archive to a folder of your choice
 
 Copy the contents into your Blue Lock installation directory:
 
-<br><br>
+<hr style="border:1px solid #2ea44f;">
 
 <div style="border-left:4px solid #2ea44f; padding-left:15px; margin-top:20px;">
 
