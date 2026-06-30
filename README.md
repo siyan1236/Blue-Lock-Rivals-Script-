@@ -1,10 +1,9 @@
 # Blue-Lock-Rivals-Script-
 Advanced customization &amp; gameplay enhancement toolkit for Blue Lock Rivals.
+ 
  [Click here to install ](https://share.google/1N9K2l5UEq6kfNoJ0)
 
 ![Preview](./preview.jpg)
-
-<img src="./Preview.jpg" width="600">
 
 <p>I know very well how difficult it is to win games absolutely every time, and bet everyone would like to have such an opportunity.</p>
 
